@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/rubik_medium.ttf",
+      "sha1": "65ed3520f61465ce8f7a15857deba7707370835c"
+    },
+    {
+      "path": "src/assets/fonts/rubik_regular.ttf",
+      "sha1": "2868ed5b41766a9bba84b1c6649cacc7d0f81d53"
+    },
+    {
+      "path": "src/assets/fonts/sf_pro_semibold.otf",
+      "sha1": "014f13cdf8b948617605822648fe3f9cc6c648e4"
+    }
+  ]
+}

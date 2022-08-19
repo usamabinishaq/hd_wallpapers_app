@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933432645369",
+    "project_id": "todo-c584d",
+    "storage_bucket": "todo-c584d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933432645369:android:4e6c40149acb651abb7428",
+        "android_client_info": {
+          "package_name": "com.hd_wallpapers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933432645369-kc78hprmuc6m7mkm6v1oohbqnhk5c7aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzOXdc3ewthVD2eeQXCgabrFib3EkVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933432645369-kc78hprmuc6m7mkm6v1oohbqnhk5c7aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
